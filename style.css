@@ -1,7 +1,7 @@
 .right {
-    background-color: rgb(209, 208, 208);
+    background-color: #232323d2;
     text-align: center;
-    color: #1c253b;
+    color: #899cce;
     display: flex;
     font-family: 'Raleway', sans-serif;
 }
@@ -58,5 +58,8 @@
     .text-right {
         margin: auto;
         padding: 10%
+    }
+    img {
+        height:60vh
     }
 }
