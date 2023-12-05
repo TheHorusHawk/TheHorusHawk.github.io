@@ -57,9 +57,9 @@
     }    
     .text-right {
         margin: auto;
-        padding: 10%
+        padding: 7%
     }
     img {
-        height:60vh
+        height:50%;
     }
 }
